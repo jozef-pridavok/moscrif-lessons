@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Workspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" vertBodyHeight="801" horzMiddleBodyHeight="200" horzRightBodyWidth="325" vertOutputWidth="960" name="Lessons" outputDir="$(workspace_dir)/output" tag="0" signapp="false" showLeftPane="true" showRightPane="true" showBottomPane="true" selectedProject="/Users/oxy/Work/moscrif-apps/moscrif-lessons/Singleton.msp" showalllibs="false" selectedResolution="/Applications/MoscrifIDE.app/Contents/Resources/cfg/displays/noskin_xga.ini" selectedDevices="100">
+  <projects>
+    <project>./Singleton.msp</project>
+  </projects>
+  <opened>
+    <file>StartPage</file>
+    <file>/Users/oxy/Work/moscrif-apps/moscrif-lessons/Singleton/main.ms</file>
+  </opened>
+</Workspace>
