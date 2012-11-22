@@ -1,9 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Workspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" fileExplorerPath="/Users/oxy/Work/moscrif-framework/game2d" vertBodyHeight="801" horzMiddleBodyHeight="324" horzRightBodyWidth="449" vertOutputWidth="960" name="Lessons" outputDir="$(workspace_dir)/output" tag="0" signapp="false" showLeftPane="true" showRightPane="true" showBottomPane="true" selectedProject="/Users/oxy/Work/moscrif-apps/moscrif-lessons/Offscreen.msp" showalllibs="false" selectedResolution="/Applications/MoscrifIDE.app/Contents/Resources/cfg/displays/noskin_hvga.ini" selectedDevices="100">
+<Workspace xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" fileExplorerPath="/Users/oxy/Work/moscrif-framework/core" vertBodyHeight="649" horzMiddleBodyHeight="324" horzRightBodyWidth="348" vertOutputWidth="960" name="Lessons" outputDir="$(workspace_dir)/output" tag="0" signapp="false" showLeftPane="true" showRightPane="true" showBottomPane="true" selectedProject="/Users/oxy/Work/moscrif-apps/moscrif-lessons/OptionalArgs.msp" showalllibs="false" selectedResolution="/Applications/MoscrifIDE.app/Contents/Resources/cfg/displays/noskin_hvga.ini" selectedDevices="100">
   <projects>
     <project>./Singleton.msp</project>
     <project>./GetterSetter.msp</project>
     <project>./Offscreen.msp</project>
+    <project>./JSON.msp</project>
+    <project>./Lambda.msp</project>
+    <project>./IntegerAndFloats.msp</project>
+    <project>./OptionalArgs.msp</project>
   </projects>
   <opened>
     <file>StartPage</file>
@@ -13,5 +17,9 @@
     <file>/Users/oxy/Work/moscrif-apps/moscrif-lessons/Offscreen/main.ms</file>
     <file>/Users/oxy/Work/moscrif-sandbox/ImageFilter/BlurImage/main.ms</file>
     <file>/Users/oxy/Work/moscrif-framework/game2d/game.ms</file>
+    <file>/Users/oxy/Work/moscrif-apps/moscrif-lessons/JSON/main.ms</file>
+    <file>/Users/oxy/Work/moscrif-apps/moscrif-lessons/Lambda/main.ms</file>
+    <file>/Users/oxy/Work/moscrif-apps/moscrif-lessons/IntegerAndFloats/main.ms</file>
+    <file>/Users/oxy/Work/moscrif-apps/moscrif-lessons/OptionalArgs/main.ms</file>
   </opened>
 </Workspace>
