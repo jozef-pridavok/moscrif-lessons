@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" includeAllResolution="false" applicationType="application" projectOutput="$(workspace_dir)/output" appFile="./Decorators.app">
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" includeAllResolution="false" applicationType="application" projectOutput="$(workspace_dir)/output" appFile="./XmlParser.app">
   <conditionDefines />
   <NewSkin>true</NewSkin>
   <publishTyp>0</publishTyp>
   <fileProperties>
-    <property path="./Decorators/main.ms" isDirectory="false" excluded="false">
+    <property path="./XmlParser/main.ms" isDirectory="false" excluded="false">
       <conditions />
     </property>
   </fileProperties>

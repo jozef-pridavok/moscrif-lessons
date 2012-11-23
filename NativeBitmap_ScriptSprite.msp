@@ -1,10 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" includeAllResolution="false" applicationType="application" projectOutput="$(workspace_dir)/output" appFile="./Decorators.app">
+<Project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" includeAllResolution="false" applicationType="application" projectOutput="$(workspace_dir)/output" facebookAppID="" projectArtefact="NativeBitmap_ScriptSprite_$(Platform)_$(Resolution)" appFile="./NativeBitmap_ScriptSprite.app">
   <conditionDefines />
   <NewSkin>true</NewSkin>
   <publishTyp>0</publishTyp>
   <fileProperties>
-    <property path="./Decorators/main.ms" isDirectory="false" excluded="false">
+    <property path="./NativeBitmap_ScriptSprite/main.ms" isDirectory="false" excluded="false">
+      <conditions />
+    </property>
+    <property path="./NativeBitmap_ScriptSprite/gfx.ms" isDirectory="false" excluded="false">
       <conditions />
     </property>
   </fileProperties>
@@ -13,43 +16,43 @@
       <publishProperties>
         <property name="icon" value="" />
         <property name="splash" value="" />
-        <property name="bundleIdentifier" value="" />
+        <property name="bundleIdentifier" value="com.GeneratedbyMoscrifIde.NativeBitmap_ScriptSprite" />
         <property name="alias" value="" />
         <property name="keystore" value="" />
         <property name="keypassword" value="" />
         <property name="storepassword" value="" />
-        <property name="supportedDevices" value="" />
+        <property name="supportedDevices" value="universal" />
         <property name="permission" value="" />
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="150">
       <publishProperties>
         <property name="icon" value="" />
         <property name="splash" value="" />
-        <property name="bundleIdentifier" value="" />
+        <property name="bundleIdentifier" value="com.GeneratedbyMoscrifIde.NativeBitmap_ScriptSprite" />
         <property name="alias" value="" />
         <property name="keystore" value="" />
         <property name="keypassword" value="" />
         <property name="storepassword" value="" />
-        <property name="supportedDevices" value="" />
-        <property name="installLocation" value="" />
+        <property name="supportedDevices" value="universal" />
+        <property name="installLocation" value="internalOnly" />
         <property name="permission" value="" />
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="300">
       <publishProperties>
         <property name="icon" value="" />
         <property name="splash" value="" />
-        <property name="codeSigningIdentity" value="" />
-        <property name="supportedDevices" value="" />
+        <property name="codeSigningIdentity" value="iPhone Developer: Jozef Pridavok (ENR9MZF3YM)" />
+        <property name="supportedDevices" value="universal" />
         <property name="iPhone4-icon" value="" />
         <property name="iPhone4-splash" value="" />
         <property name="iPhone5-icon" value="" />
@@ -58,10 +61,11 @@
         <property name="iPad-splash" value="" />
         <property name="newiPad-icon" value="" />
         <property name="newiPad-splash" value="" />
+        <property name="bundleIdentifier" value="com.GeneratedbyMoscrifIde.NativeBitmap_ScriptSprite" />
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="200">
@@ -72,7 +76,7 @@
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="201">
@@ -83,7 +87,7 @@
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="450">
@@ -97,7 +101,7 @@
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="520">
@@ -107,7 +111,7 @@
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="203">
@@ -118,7 +122,7 @@
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="600">
@@ -128,7 +132,7 @@
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
     <device targetPlatform="700">
@@ -138,7 +142,7 @@
       </publishProperties>
       <includes>
         <fonts />
-        <skin />
+        <skin name="" theme="" />
       </includes>
     </device>
   </devices>
